@@ -1,3 +1,3 @@
-#HELLoNode
-![alt text](nodejs.png "nodejs")
-Primeiros passos com node.js
+# HELLoNode
+!(./nodejs.png "nodejs")
+# Primeiros passos com node.js
